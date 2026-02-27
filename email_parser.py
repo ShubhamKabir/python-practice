@@ -1,3 +1,4 @@
+print("Script started...")
 import os
 
 def extract_domain(email):
