@@ -2,8 +2,11 @@ print("Script started...")
 import os
 
 def extract_domain(email):
-    # .strip() cleans spaces, .lower() keeps it uniform
-    return email.strip().lower().split('@')[-1]
+   # First, get everything after the @
+    after_at = email.strip().lower().split('@')[-1]
+    # Second, split by space or comma and take only the first word
+    domain_only = after_at.split()[0].split(',')[0]
+    return domain_only
 
 domain_counts = {}
 
