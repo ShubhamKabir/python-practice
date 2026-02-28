@@ -5,9 +5,9 @@ def run():
     data = json.load(f)
     f.close()
     
-    # This is the clear, step-by-step way we learned
+    # Check each user and print if they are active
     for user in data:
-        if user["active"]:
+        if user["active"] == True:
             print(f"Active: {user['name']}")
 
 if __name__ == "__main__":
