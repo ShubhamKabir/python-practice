@@ -8,9 +8,14 @@ def write_it(path, lines):
 
 def run():
     try:
-        # Standard cleaning: uppercase and strip
         content = read_it("raw_data.txt")
-        clean_lines = [l.strip().upper() + "\n" for l in content]
+        
+        # Using a standard loop for clear processing
+        clean_lines = []
+        for line in content:
+            # Uppercase and strip to clean the data
+            clean_lines.append(line.strip().upper() + "\n")
+            
         write_it("final_report.txt", clean_lines)
         print("File processing complete.")
     except:
