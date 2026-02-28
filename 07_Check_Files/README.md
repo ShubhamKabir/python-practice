@@ -1,10 +1,14 @@
-\# Program 07: System Health Checker
+\*\*Program 07: System Health Checker\*\*
+
+
 
 Reads a list of required files from list.txt and verifies their presence in the directory.
 
 
 
-\### Output:
+\*\*Sample Output:\*\*
+
+
 
 emails.txt: OK
 
