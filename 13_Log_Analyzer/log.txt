@@ -1,0 +1,5 @@
+[INFO] System started.
+[INFO] User alex logged in.
+[ERROR] Database connection failed.
+[INFO] Retrying connection...
+[ERROR] Timeout reached.
