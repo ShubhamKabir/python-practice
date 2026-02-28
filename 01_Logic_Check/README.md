@@ -1,6 +1,6 @@
 \# Program 01: Logic Check
 
-This program categorizes users based on age logic.
+This program takes user input (Name and Age) and categorizes them using a function.
 
 
 
@@ -10,7 +10,11 @@ python logic\_check.py
 
 
 
-\### Sample Input:
+\### Sample Run:
 
-Age: 25
+Name: Rahul
+
+Age: 30
+
+Summary: Rahul - Adult
 
