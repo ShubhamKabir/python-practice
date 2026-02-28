@@ -1,10 +1,14 @@
-\# Program 06: Work Logger
+\*\*Program 06: Work Logger\*\*
+
+
 
 A simple automation script to log task history with timestamps.
 
 
 
-\### Features:
+\*\*Features:\*\*
+
+
 
 \- Appends data without deleting old logs.
 
