@@ -1,18 +1,14 @@
-\# Program 04: Email Domain Parser
+# \# Program 04: Email Domain Parser
 
-A data cleaning tool designed to extract clean domains from messy email lists.
+# This script cleans email domains and counts the frequency of each provider.
+
+# 
+
+# \### Sample Output:
+
+# gmail.com: 3
+
+# yahoo.com: 2
 
 
-
-\### Problem Solved:
-
-Handled edge cases where domains were joined with extra text (e.g., `yahoo.comhello`).
-
-
-
-\### Output:
-
-gmail.com
-
-yahoo.com
 
