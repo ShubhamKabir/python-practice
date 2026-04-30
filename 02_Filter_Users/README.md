@@ -1,10 +1,10 @@
-\# Program 02: User Filtering
+# Program 02: User Filtering
 
 This script parses a JSON database and filters for active engineers.
 
 
 
-\### Output:
+### Output:
 
 Active: Alex
 
