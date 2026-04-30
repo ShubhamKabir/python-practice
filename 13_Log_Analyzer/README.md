@@ -1,4 +1,4 @@
-\*\*Program 13: Log File Analyzer\*\*
+# Program 13: Log File Analyzer
 
 
 
@@ -6,7 +6,7 @@ A mini-project that parses log files to generate a summary of system activity.
 
 
 
-\*\*Sample Output:\*\*
+### Sample Output:
 
 Total Lines: 5
 
