@@ -1,4 +1,4 @@
-\*\*Program 09: Tag Updater\*\*
+# Program 09: Tag Update
 
 
 
@@ -6,7 +6,7 @@ A batch-editing utility to quickly swap keywords in a text file.
 
 
 
-\*\*Process:\*\*
+### Process:
 
 1\. Opens tags.txt in read mode.
 
