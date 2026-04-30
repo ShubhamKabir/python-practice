@@ -1,16 +1,16 @@
-\# Program 01: Logic Check
+# Program 01: Logic Check
 
 This program takes user input (Name and Age) and categorizes them using a function.
 
 
 
-\### How to run:
+### How to run:
 
 python logic\_check.py
 
 
 
-\### Sample Run:
+### Sample Run:
 
 Name: Rahul
 
