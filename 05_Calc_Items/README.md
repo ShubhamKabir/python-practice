@@ -1,12 +1,11 @@
-\*\*Program 05: Item Calculator\*\*
-
+# Program 05: Item Calculator
 
 
 Calculates total cost of items from a CSV file.
 
 
 
-\*\*Sample Output:\*\*
+### Sample Output
 
 
 
