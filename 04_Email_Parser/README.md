@@ -1,4 +1,4 @@
-# Program 04: Email Domain Parser\*\*
+# Program 04: Email Domain Parser
 
 
 
@@ -6,7 +6,7 @@ This script cleans email domains and counts the frequency of each provider.
 
 
 
-### Sample Output:\*\*
+### Sample Output:
 
 
 
